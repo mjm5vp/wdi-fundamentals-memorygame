@@ -21,6 +21,7 @@ a{
 	
 }
 
+
 h2{
 	font-family: RALEWAY;
 	color: #0D2C40;
@@ -43,6 +44,8 @@ nav{
 	background-color: #00A6B3;
 	padding: 20px 0px;
 	border-bottom: 2px solid transparent;
+	text-transform: uppercase;
+	color: white;
 }
 
 main{
@@ -86,6 +89,27 @@ footer{
 
 a:hover {
   color: white;
+}
+
+button{
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:RALEWAY;
+	font-size:17px;
+	padding:16px 31px;
+	margin:10px 0px;
+
+	
+
+}
+
+.score{
+
+	font-family: Raleway;
+
 }
 
 
